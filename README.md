@@ -1,7 +1,6 @@
 # AI-CHATBOT
 
 Work Flow:
-
 ![Science fair](https://github.com/rkverma2022/AI-CHATBOT/assets/112231455/f17b80c4-f4fe-418b-9203-4614c0151d7b)
 ![Science fair (1)](https://github.com/rkverma2022/AI-CHATBOT/assets/112231455/71285eb3-a570-4843-9d35-b53fb90716d3)
 ![Science fair (2)](https://github.com/rkverma2022/AI-CHATBOT/assets/112231455/7f00a041-a7ff-4b06-9ef9-953730ddd281)
