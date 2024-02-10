@@ -1,5 +1,14 @@
 # AI-CHATBOT
 
+
+NLP-Preprocessing-Basic-Lecture-1: https://colab.research.google.com/drive/1_PAGewGTTMlP9jtasXJVzY49gem4S5GU?usp=sharing 
+
+
+
+
+
+
+
 Work Flow:
 ![Science fair](https://github.com/rkverma2022/AI-CHATBOT/assets/112231455/f17b80c4-f4fe-418b-9203-4614c0151d7b)
 ![Science fair (1)](https://github.com/rkverma2022/AI-CHATBOT/assets/112231455/71285eb3-a570-4843-9d35-b53fb90716d3)
