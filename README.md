@@ -3,11 +3,15 @@
 
 NLP-Preprocessing-Basic-Lecture-1: https://colab.research.google.com/drive/1_PAGewGTTMlP9jtasXJVzY49gem4S5GU?usp=sharing 
 
+
 NLP-Sentiment-Classifier-Lecture-2: https://colab.research.google.com/drive/1KHg9Qu_Ub453yzqmODs4fjoDxVdl8Bkf?usp=sharing 
+
 Dataset Kaggle Link - https://www.kaggle.com/datasets/parulpandey/emotion-dataset?select=training.csv 
 
 
+NLP_Next_Word_Predictor_Lecture_3.ipynb: https://colab.research.google.com/drive/12R7Dibw_7IcbJHcQ0idnL1QPJMpWYoeD?usp=sharing 
 
+Dataset Kaggel Link: https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot 
 
 
 
