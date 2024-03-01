@@ -13,6 +13,8 @@ NLP_Next_Word_Predictor_Lecture_3.ipynb: https://colab.research.google.com/drive
 
 Dataset Kaggel Link: https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot 
 
+NLP_Chabot  in console from scratch Lecture 4: https://colab.research.google.com/drive/1hDa2Lp0mYGJuTSuAJssgTLL_D4_3HpO6?usp=sharing
+
 
 
 
